@@ -1,0 +1,90 @@
+[
+    {
+      "id": 0,
+      "title": "Xiaomi Mi True Wireless Earbuds",
+      "imgURL":
+        "https://cdn.cimri.io/image/1000x1000/xiaomimitruewirelessearbudsairdotsbasicsiyahbluetoothkulaklk_442882893.jpg",
+      "price": "₺134,77",
+      "inStock": true
+    },
+    {
+      "id": 1,
+      "title": "General Mobile GM 20",
+      "imgURL":
+        "https://cdn.cimri.io/image/1000x1000/generalmobilegmgbgbraminmpakllceptelefonu_271622824.jpg",
+      "price": "₺1.810,21",
+      "inStock": true
+    },
+    {
+      "id": 2,
+      "title": "Philips 58PUS8505/62 The One",
+      "imgURL":
+        "https://cdn.cimri.io/pictures/article/original/28/28630.jpg",
+      "price": "₺6.992,25",
+      "inStock": false
+    },
+    {
+      "id": 3,
+      "title": "LG 49UM7100PLB Ultra HD 4K",
+      "imgURL":
+        "https://productimages.hepsiburada.net/s/28/1500/10224740859954.jpg",
+      "price": "₺4.614,38",
+      "inStock": true
+    },
+    {
+      "id": 4,
+      "title": "Samsung Galaxy M31 SM-M315F",
+      "imgURL":
+        "https://productimages.hepsiburada.net/s/37/1500/10535264944178.jpg",
+      "price": "₺2.995,80",
+      "inStock": true
+    },
+    {
+      "id": 5,
+      "title":"Apple AirPods Series 2",
+      "imgURL":
+        "https://devicetreereviews.com/wp-content/uploads/2020/12/airpods-series-2.jpg",
+      "price": "₺1.299,00",
+      "inStock": true
+    },
+    {
+      "id": 6,
+      "title": "Lenovo Tab M10 Plus",
+      "imgURL":
+        "https://productimages.hepsiburada.net/s/51/375/11065934315570.jpg",
+      "price": "₺2.496,50",
+      "inStock": false
+    },
+    {
+      "id": 7,
+      "title": "Xiaomi Redmi 20000 Mah",
+      "imgURL":
+       "https://cdn.cimri.io/image/1000x1000/xiaomimahaaiftkltanabilirhzlarjcihazbeyaz_471437716.jpg",
+      "price": "₺134,70",
+      "inStock": false
+    },
+    {
+      "id": 8,
+      "title": "Xiaomi Mijia Smart Home 360",
+      "imgURL":
+        "https://productimages.hepsiburada.net/s/23/375/10051049422898.jpg",
+      "price": "₺269,73",
+      "inStock": true
+    },
+    {
+      "id": 9,
+      "title": "Xiaomi Mi Box S 4K Ultra HD",
+      "imgURL":
+        "https://productimages.hepsiburada.net/s/22/375/9957338677298.jpg",
+      "price": "₺478,53",
+      "inStock": true
+    },
+    {
+      "id": 10,
+      "title": "Haylou Solar LS-5 Smartwatch",
+      "imgURL":
+        "https://cdn.cimri.io/image/1000x1000/haylousolarlssiyahakllsaat_470646158.jpg",
+      "price": "₺296,00",
+      "inStock": true
+    }
+  ]
